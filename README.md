@@ -1,4 +1,4 @@
-**#Homework FE_Start_12.10.22-2 (Sydun Viacheslav)**
+[**#Homework FE_Start_12.10.22-2 (Sydun Viacheslav)**](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/)
 <hr>
 
 
