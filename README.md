@@ -1,8 +1,8 @@
 <h1>#Homework FE_Start_12.10.22-2 (Sydun Viacheslav)</h1>
 
-<h2>**LESSON_1**</h2>
-**Завдання 1.** Формули та властивості степенів:
-[Перегляд коду](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_1/Task_1.html) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_1/Task_1.html)
+<h3>**LESSON_1**</h3>
+<p>**Завдання 1.** Формули та властивості степенів:</p>
+<p>[Перегляд коду](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_1/Task_1.html) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_1/Task_1.html)</p>
 
 **Завдання 2.** Цитати:
 [Перегляд коду](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_1/Task_2.html) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_1/Task_2.html)
