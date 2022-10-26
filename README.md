@@ -1,8 +1,8 @@
-<h1>#Homework FE_Start_12.10.22-2 (Sydun Viacheslav)</h1>
+#Homework FE_Start_12.10.22-2 (Sydun Viacheslav)
 
-<h3>**LESSON_1**</h3>
-<p>**Завдання 1.** Формули та властивості степенів:</p>
-<p>[Перегляд коду](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_1/Task_1.html) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_1/Task_1.html)</p>
+**LESSON_1**
+**Завдання 1.** Формули та властивості степенів:
+[Перегляд коду](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_1/Task_1.html) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_1/Task_1.html)
 
 **Завдання 2.** Цитати:
 [Перегляд коду](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_1/Task_2.html) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_1/Task_2.html)
@@ -11,7 +11,7 @@
 [Перегляд коду](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_1/Task_3.html) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_1/Task_3.html)
 <hr>
 
-<h2>**LESSON_2**</h2>
+**LESSON_2**
 **Завдання 1.** Було здійснене оформлення блоків тексту по центру вікна з використанням відступів (1 - адаптивний з фіксованим відступом від краю вікна; 2 - адаптивний, який займає 90% ширини вікна; 3 - фіксованого розміру):
 [Перегляд коду](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_2/Task_1.html) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_2/Task_1.html)
 
@@ -25,7 +25,7 @@
 [Перегляд коду](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_2/Task_3.2.html) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_2/Task_3.2.html)
 <hr>
 
-<h2>**LESSON_3**</h2>
+**LESSON_3**
 **Завдання 1.** Створення власного банеру за зразком:
 [Перегляд коду html](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_3/index.html) | [Перегляд коду CSS](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_3/css/style.css) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_3/index.html)
 <hr>
