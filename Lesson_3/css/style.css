@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.banner{
+	background: url(../img/main-bg.jpg);
+	height: 100vh;
+	background-size: 100% 100%;
+	display: flex;
+	justify-content: flex-end;
+	font-family: 'Reem Kufi', sans-serif;
+}
+.banner__info{
+	width: 50%;
+	height: 400px;
+	margin: 15% 25%;
+	text-align: center;
+}
+.banner__info div{
+	color: white;
+	margin: 10px;
+	padding: 10px 10px;
+}
+.banner__title{
+	font-size: 30px;
+	text-transform: uppercase;
+}
+.banner__text{
+	font-size: 20px;	
+}
+.banner__btn{
+	background: black;
+	padding: 15px;
+	margin: 15px;
+	text-transform: uppercase;
+}
+.banner__btn a{
+	color: white;
+	text-decoration: none;
+}
