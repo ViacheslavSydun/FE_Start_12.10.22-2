@@ -34,6 +34,7 @@
 
 [Перегляд коду](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_2/Task_2.html) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_2/Task_2.html)
 
+
 **Завдання 3.1.** Було розміщено зображення прицілу фіксованого розміру фоном по центру сторінки:
 
 [Перегляд коду](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_2/Task_3.1.html) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_2/Task_3.1.html)
@@ -53,6 +54,22 @@
 **Завдання 1.** Створення власного банеру за зразком:
 
 [Перегляд коду html](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_3/index.html) | [Перегляд коду CSS](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_3/css/style.css) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_3/index.html)
+
+
+<hr>
+
+
+**ЗАНЯТТЯ 4**
+
+
+**Завдання 1.** Створення блочної розмітки згідно зразка за допомогою флексів:
+
+[Перегляд коду html](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_4/Task_1/index.html) | [Перегляд коду CSS](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_4/Task_1/css/style.css) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_4/Task_1/index.html)
+
+
+**Завдання 2.** Розміщення елементів навігації на раніше створеному банерові за зразком:
+
+[Перегляд коду html](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_4/Task_2/index.html) | [Перегляд коду CSS](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_4/Task_2/css/style.css) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_4/Task_2/index.html)
 
 
 <hr>
