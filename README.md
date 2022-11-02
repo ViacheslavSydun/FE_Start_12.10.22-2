@@ -73,3 +73,34 @@
 
 
 <hr>
+
+
+**ЗАНЯТТЯ 5**
+
+
+**Завдання 1.** :
+
+[Перегляд коду html](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_5/Task_1/index.html) | [Перегляд коду CSS](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_5/Task_1/css/style.css) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_5/Task_1/index.html)
+
+
+**Завдання 2.** :
+
+[Перегляд коду html](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_5/Task_2/index.html) | [Перегляд коду CSS](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_5/Task_2/css/style.css) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_5/Task_2/index.html)
+
+
+**Завдання 3.** :
+
+[Перегляд коду html](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_5/Task_3/index.html) | [Перегляд коду CSS](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_5/Task_3/css/style.css) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_5/Task_3/index.html)
+
+
+**Завдання 4.** :
+
+[Перегляд коду html](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_5/Task_4/index.html) | [Перегляд коду CSS](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_5/Task_4/css/style.css) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_5/Task_4/index.html)
+
+
+**Завдання 5.** :
+
+[Перегляд коду html](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_5/Task_5/index.html) | [Перегляд коду CSS](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_5/Task_5/css/style.css) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_5/Task_5/index.html)
+
+
+<hr>
