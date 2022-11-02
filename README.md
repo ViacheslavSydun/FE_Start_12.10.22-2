@@ -78,27 +78,27 @@
 **ЗАНЯТТЯ 5**
 
 
-**Завдання 1.** :
+**Завдання 1.** Створення веб форми згідно зразка з картинкою замість каптчі:
 
 [Перегляд коду html](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_5/Task_1/index.html) | [Перегляд коду CSS](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_5/Task_1/css/style.css) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_5/Task_1/index.html)
 
 
-**Завдання 2.** :
+**Завдання 2.** Створення веб форми згідно зразка з заповненими за замовчуванням полями текстового вводу:
 
 [Перегляд коду html](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_5/Task_2/index.html) | [Перегляд коду CSS](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_5/Task_2/css/style.css) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_5/Task_2/index.html)
 
 
-**Завдання 3.** :
+**Завдання 3.** Створення веб форми згідно зразка з "шапкою" форми:
 
 [Перегляд коду html](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_5/Task_3/index.html) | [Перегляд коду CSS](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_5/Task_3/css/style.css) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_5/Task_3/index.html)
 
 
-**Завдання 4.** :
+**Завдання 4.** Створення веб форми згідно зразка з "шапкою" та "підвалом" з використанням іконок в оформленні поля текстового вводу:
 
 [Перегляд коду html](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_5/Task_4/index.html) | [Перегляд коду CSS](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_5/Task_4/css/style.css) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_5/Task_4/index.html)
 
 
-**Завдання 5.** :
+**Завдання 5.** Закінчення створення форми уроку:
 
 [Перегляд коду html](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_5/Task_5/index.html) | [Перегляд коду CSS](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_5/Task_5/css/style.css) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_5/Task_5/index.html)
 
