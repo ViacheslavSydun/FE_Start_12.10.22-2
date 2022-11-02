@@ -1,0 +1,73 @@
+body{
+	background: rgba(109, 193, 201, 1.0);
+	margin-top: 200px;
+}
+.form{
+	width: 400px;
+	margin: auto;
+}
+.form__header{
+	height: 80px;
+	background: rgba(232, 242, 242, 1.0);
+	display: flex;
+	align-items: center;
+	font-size: 25px;
+}
+.form__header h3{
+	margin-left: 25px;
+}
+.form__body{
+	background: rgba(237, 247, 249, 1.0);
+}
+hr {
+	margin: 0;
+}
+.form__item{
+	display: flex;
+	justify-content: space-between;
+}
+.form__item  .form__textbox{
+	background: white;
+	width: 218px;
+	margin: 10px 40px 10px 25px;
+	border: 2px solid lightgray;
+}
+.form__item  .form__textbox input{
+	padding: 10px;
+	border: 0;
+	width: 164px;
+}
+.form__item  .form__textbox i{
+	color: lightgray;
+}
+.form__itemText{
+	margin: 20px 0 20px 25px;
+}
+div a{
+	margin-left: 140px;
+}
+.form__checkbox input{
+	margin: 25px 0 25px 140px;
+}
+.form__footer{
+	height: 80px;
+	background: rgba(232, 242, 242, 1.0);
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+}
+.form__footer > input{
+	border: none;
+	color: white;
+	margin-right: 25px;
+	cursor: pointer;
+	padding: 10px 20px;
+}
+.form__Register{
+	background: rgba(191, 193, 192, 1.0);
+}
+.form__Log_in{
+	background: rgba(84, 181, 224, 1.0);
+}
+
+

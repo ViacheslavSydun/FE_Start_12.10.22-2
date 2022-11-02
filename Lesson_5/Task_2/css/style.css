@@ -1,0 +1,30 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.form{
+	width: 600px;
+	margin: auto;
+	background: lightgray;
+}
+h1{
+	text-align: center;
+}
+.form__item{
+	width: 540px;
+	display: flex;
+	flex-direction: column;
+	margin: 15px 30px 10px 30px;
+}
+.form__item input{
+	width: 515px;
+	padding: 10px;
+	margin-top: 4px;
+}
+#submit{
+	width: 150px;
+	margin-bottom: 30px;
+	background: blue;
+	color: white;
+}
+
