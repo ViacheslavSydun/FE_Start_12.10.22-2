@@ -12,7 +12,6 @@
 	background: green;
 	align-items: center;
 }
-
 .form__header select{
 	background: green;
 	border: none;
@@ -60,7 +59,6 @@
 }
 .form__webItem input{
 	width: 150px!important;
-
 }
 .form__footer{
 	height: 40px;
