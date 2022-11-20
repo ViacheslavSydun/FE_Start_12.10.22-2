@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Task_1</title>
+	<style>
+		*{
+			margin: 0;
+			padding: 0;
+			text-decoration: none;
+			color: gray;
+		}
+		html, body{
+			width: 100vw;
+		}
+		.toolbar{
+			height: 50px;
+			width: 100%;
+			background: rgb(64, 66, 66);
+			font-family: 'Bebas Neue', cursive;
+			font-family: 'Secular One', sans-serif;
+			font-family: 'Varela Round', sans-serif;
+		}
+		.menu div a{
+			height: 50px;
+			float: left;
+			display: flex;
+			align-items: center;
+			padding: 0 10px;
+		}
+		.login div a{
+			height: 50px;
+			float: right;
+			display: flex;
+			align-items: center;
+			padding: 0 10px;
+		}
+		.menu div a:hover{
+			color: lightgreen;
+		}
+		.login div a:hover{
+			color: lightblue;
+		}
+		i{
+			padding: 0 5px;
+		}
+	</style>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Secular+One&family=Varela+Round&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="libs/fontawesome/css/all.css">
+</head>
+<body>
+	<div class="toolbar">
+		<div class="menu">
+			<div><a href="#">Works</a></div>
+			<div><a href="#">Authors</a></div>
+			<div><a href="#">Studios</a></div>
+			<div><a href="#">Schools</a></div>
+			<div><a href="#">Contests</a></div>
+			<div><a href="#">Blog</a></div>
+			<div><a href="#">Wiki <i class="fa-solid fa-arrow-right"></i></a></div>
+		</div>
+		<div class="login">
+			<div><a href="#">En</a></div>
+			<div><a href="#">Ua</a></div>
+			<div><a href="#"><i class="fa-solid fa-user"></i>Register</a></div>
+			<div><a href="#"><i class="fa-solid fa-shoe-prints"></i>Log In</a></div>
+		</div>
+	</div>
+</body>
+</html>
