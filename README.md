@@ -117,6 +117,27 @@
 <hr>
 
 
+**ЗАНЯТТЯ 7**
+
+
+**Завдання 1.** Верстка меню згідно зразка:
+
+[Перегляд коду](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_7/Task_1/index.html) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_7/Task_1/index.html)
+
+
+**Завдання 2.** Верстка меню згідно зразка:
+
+[Перегляд коду html](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_7/Task_2/index.html) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_7/Task_2/index.html)
+
+
+**Завдання 3.** Верстка меню з використанням підменю:
+
+[Перегляд коду html](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_7/Task_3/index.html) | [Перегляд коду CSS](https://github.com/ViacheslavSydun/FE_Start_12.10.22-2/blob/main/Lesson_7/Task_3/css/style.css) | [Перегляд результату](https://viacheslavsydun.github.io/FE_Start_12.10.22-2/Lesson_7/Task_3/index.html)
+
+
+<hr>
+
+
 **ЗАНЯТТЯ 8**
 
 
